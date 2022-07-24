@@ -11,5 +11,5 @@ The main goal of this project is to investigate whether a small poll sample will
 # [Project 3: SAT Scores Linear Regression](https://github.com/HoaTran2003/Project_3_Sat_Scores) 
 This project aims to investigate whether SAT scores (MATH & VERBAL individually and cumulatively) as well as high school GPA are good predictors of college’s GPA. With that in mind, the resulting analysis will certainly help us to have a better understanding of how admission officers  weigh their options based on academic achievements. 
 
-#Project 4: Market Penetration 
+# [Project 4: Market Penetration](https://github.com/HoaTran2003/Project_4_Market_Pen) 
 The main goal of this project is to simulate how a product is adopted over time by using the difference equation called the Bass fusion model. It presents a rationale of how current adopters and potential adopters of a new product interact as seen through the calculations required of the model. This is basically how new customers accustomed to new product and technologies. The reason this is intriguing is that by successfully understanding and analyzing the results, we will be able to utilize it in a broader context such as forecasting product’s sales as well as technology. 
