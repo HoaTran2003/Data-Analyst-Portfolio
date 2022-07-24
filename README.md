@@ -1,4 +1,4 @@
-# Hoa Tran's Data Analysis Portfolio
+# Hoa Tran's Portfolio
 
 # [Project 1: Voting Trend: Project Overview](https://github.com/HoaTran2003/Project-_1_Voting_Trend)
 * Scraped election data from https://clerk.house.gov/cgi-bin/ to know about the polarization of voting behaviors of  the US House chamber.
