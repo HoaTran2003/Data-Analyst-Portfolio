@@ -13,3 +13,6 @@ This project aims to investigate whether SAT scores (MATH & VERBAL individually 
 
 # [Project 4: Market penetration (Implementation of Bass Fusion Model)](https://github.com/HoaTran2003/Project_4_Market_Pen) 
 The main goal of this project is to simulate how a product is adopted over time by using the difference equation called the Bass fusion model. It presents a rationale of how current adopters and potential adopters of a new product interact as seen through the calculations required of the model. This is basically how new customers accustomed to new product and technologies. The reason this is intriguing is that by successfully understanding and analyzing the results, we will be able to utilize it in a broader context such as forecasting product’s sales as well as technology. 
+
+# Project 5: Twitter Sentiment Analysis
+With the rapid changes of the Covid-19 pandemic, people’s perspective of it has always been drastically different. Most notably, such a drastic difference can be seen on many social media platforms such as Twitter and Facebook. Because of this, analysis of the sentiment value of social media , especially Twitter’s tweets, will be of crucial importance in understanding how the public is viewing the pandemic. 
